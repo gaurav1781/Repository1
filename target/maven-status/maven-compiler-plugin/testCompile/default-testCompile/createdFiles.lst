@@ -1,0 +1,5 @@
+StepDefinitions\check_alert_button.class
+StepDefinitions\TestRunner.class
+StepDefinitions\yahoocreateacc.class
+StepDefinitions\placeorder.class
+StepDefinitions\loginsteps.class

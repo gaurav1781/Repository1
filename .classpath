@@ -58,5 +58,6 @@
 	<classpathentry kind="lib" path="D:/Selenium/libs/poi-4.0.0/poi-ooxml-schemas-4.0.0.jar"/>
 	<classpathentry kind="lib" path="D:/Selenium/libs/poi-4.0.0/poi-scratchpad-4.0.0.jar"/>
 	<classpathentry kind="lib" path="D:/Selenium/libs/poi-4.0.0/lib/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/client-combined-3.14.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

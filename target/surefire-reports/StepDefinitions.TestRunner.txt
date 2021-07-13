@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: StepDefinitions.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 97.976 sec <<< FAILURE!
+Validate Alerts on ICICIDirect Home Page(Feature to verify icicidirect homepage)  Time elapsed: 0.025 sec  <<< ERROR!
+java.lang.NullPointerException
+	at StepDefinitions.yahoocreateacc.user_click_alertbutton(yahoocreateacc.java:92)
+	at ?.User is on ICICIDirect home page and clicks on Alert button(file:///D:/Software/Java%20Workspace/cucum/src/test/resources/Features/website_homepage.feature:10)
+
